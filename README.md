@@ -1,1 +1,1 @@
-the tasks of GRIP @ TSF are uploaded here
+the tasks of GRIP @ TSF Data Science & Business Analytics Internship are uploaded here.
